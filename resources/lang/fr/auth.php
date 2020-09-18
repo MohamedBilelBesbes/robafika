@@ -14,6 +14,6 @@ return [
     */
 
     'failed' => 'Ces coordonnes n\'existent pas.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'throttle' => 'Ca prend beaucoup de temps',
 
 ];
